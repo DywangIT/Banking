@@ -681,6 +681,10 @@ a {
     color: #fff;
 }
 
+.download .container .heading:before {
+    background: #fff;
+}
+
 .download__desc {
     margin-top: 18px;
     width: 435px;
